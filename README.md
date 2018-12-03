@@ -1,6 +1,8 @@
 # HHYSpecs
 Cocopods索引仓库
 
+添加我的私有仓库 **pod repo add HHYSpecs https://github.com/HuiYouHua/HHYSpecs.git**
+
 简书对应地址：[Cocopods建立远程仓库](https://www.jianshu.com/p/9975a364b476)
 
 简书教程传送门：[教你从零到一搭建组件化项目](https://www.jianshu.com/p/267fc922897d)
