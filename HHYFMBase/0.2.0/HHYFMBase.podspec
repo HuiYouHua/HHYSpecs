@@ -28,7 +28,7 @@ Pod::Spec.new do |s|
 
   s.ios.deployment_target = '8.0'
 
-  s.source_files = 'HHYFMBase/Classes/**/*'
+#  s.source_files = 'HHYFMBase/Classes/**/*'
   
   s.subspec 'Base' do |b|
     b.source_files = 'HHYFMBase/Classes/Base/**/*'
