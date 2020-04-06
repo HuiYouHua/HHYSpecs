@@ -40,8 +40,8 @@ Pod::Spec.new do |s|
   
   s.subspec 'Network' do |n|
     n.source_files = 'HHYFMBase/Classes/Network/**/*'
-    n.dependency 'AFNetworking'
-    n.dependency 'SDWebImage'
+    n.dependency 'AFNetworking', '~> 3.2.1'
+    n.dependency 'SDWebImage', '~> 5.7.0'
     n.dependency "HHYFMBase/Category"
   end
   
